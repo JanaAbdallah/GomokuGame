@@ -74,10 +74,11 @@ Players can click to place their stones, see AI responses in real time, and swit
 ## 🧑‍💻 Team Contributions
 
 This project was built as a team effort. We collaborated on algorithm design, GUI implementation, and game logic integration.
-Jana Abdallah
-Malak Sherif
-Afnan Sayed 
-Afnan Abdulkareem
+
+- Jana Abdallah
+- Malak Sherif
+- Afnan Sayed 
+- Afnan Abdulkareem
 
 ---
 
